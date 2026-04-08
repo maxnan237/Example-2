@@ -31,7 +31,10 @@ VMware's VCF virtualizes compute, storage, and networking across enterprise data
 
 Mainframe software (CA Technologies heritage) has even higher switching costs — mainframes run mission-critical workloads for banks and government agencies, and changing the software layer risks operational failure. These relationships typically span decades.
 
-Contract evidence: Remaining performance obligations of $33.3B, with only 35% expected within 12 months, imply average contract durations of ~3 years. Contracts with termination-for-convenience clauses represent 67% of contract liabilities, meaning 33% are firmly committed with no early exit.
+Contract evidence: Remaining performance obligations of $33.3B, with only 35% expected within 12 months, imply average contract durations of ~3 years. However, the share of contract liabilities with termination-for-convenience (TFC) clauses has **increased** from 55% (FY2024) to 67% (FY2025) — meaning a growing majority of customers can walk away. Only 33% are firmly committed with no early exit.
+
+[AVGO_10K_FY2025.htm, Contract Balances Note]:
+> "As of November 2, 2025, approximately 67% of contract liabilities related to contracts subject to termination for convenience provisions."
 
 [AVGO_10K_FY2025.htm, Revenue Note]:
 > "The remaining performance obligations under these contracts as of November 2, 2025 were approximately $33.3 billion."
