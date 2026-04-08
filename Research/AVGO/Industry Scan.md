@@ -25,6 +25,8 @@ Global semiconductor sales reached **$627.6 billion** in 2024 (+19.1% YoY, per S
 
 This last category — customers building their own chips — is a structural shift. Hyperscalers like Google, Amazon, and Microsoft increasingly design custom silicon in-house, though Broadcom is also a beneficiary of this trend through its custom accelerator (XPU) design business.
 
+**Notable disclosure change:** The FY2024 10-K listed 30+ named semiconductor competitors (AMD, Intel, Marvell, NVIDIA, Qualcomm, TI, MediaTek, NXP, etc.) and 20+ named software competitors (Microsoft, IBM, Oracle, CrowdStrike, Palo Alto, ServiceNow, etc.). The FY2025 10-K removed all named competitor lists — a material tightening of competitive disclosure. (Inferred: may reflect greater market dominance or strategic preference for less specificity.)
+
 ### Infrastructure Software: Oligopolistic in key segments
 
 The enterprise infrastructure software market is dominated by a small number of large-platform vendors. In private cloud/virtualization, VMware (now Broadcom) holds a leading position with VCF. In cybersecurity, the market is fragmented but consolidating. In mainframe software, the market is effectively a duopoly (Broadcom and IBM).
@@ -99,7 +101,12 @@ Design wins are the critical competitive event in semiconductors. Once a chip is
 [AVGO_10K_FY2025.htm, Risk Factors]:
 > "We operate in a highly cyclical semiconductor industry that is undergoing profound change due to AI."
 
-The semiconductor industry has historically exhibited boom-bust cycles tied to inventory builds and demand fluctuations. AI spending may dampen cyclicality in networking semiconductors near-term, but Broadcom's broadband, wireless, and industrial segments remain exposed to traditional cycles.
+The semiconductor industry has historically exhibited boom-bust cycles (13+ downturns since 1963, averaging one every 4-4.5 years per industry data). Critically, Broadcom's own filing warns that the current AI boom may not last:
+
+[AVGO_10K_FY2025.htm, Risk Factors]:
+> "The semiconductor industry is undergoing profound change due to the adoption and proliferation of AI and has experienced a significant upturn, which may not be sustainable. [...] Some of these AI customers may have constrained resources or capital and may be unable to pay for their required AI infrastructure."
+
+AI spending may dampen cyclicality in networking semiconductors near-term, but Broadcom's broadband, wireless, and industrial segments remain exposed to traditional cycles. The filing also discloses that Broadcom has begun offering "alternative financings or other novel or deferred payment models for the leasing of AI racks or systems" — suggesting some AI customers are capital-constrained.
 
 ### Export controls and trade restrictions
 
