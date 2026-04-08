@@ -1,6 +1,7 @@
 # Broadcom Inc. (AVGO) — Industry Scan
 
 *Analysis date: 2026-04-08 | Primary source: FY2025 10-K (period ending Nov 2, 2025)*
+*Supplemented with external industry data (SIA, Gartner, Deloitte, Yole Group — flagged below)*
 
 ---
 
@@ -10,7 +11,9 @@ Broadcom straddles two large industries — **semiconductors** and **enterprise 
 
 ### Semiconductors: Consolidated at the top, fragmented below
 
-The semiconductor industry has undergone decades of consolidation. A handful of companies dominate specific product categories (e.g., NVIDIA in GPUs, Broadcom in networking/custom silicon, Qualcomm in mobile), while hundreds of smaller players compete in niches.
+Global semiconductor sales reached **$627.6 billion** in 2024 (+19.1% YoY, per SIA), with 2025 estimates ranging from $707B (Gartner) to $789B (Statista). The industry has undergone decades of consolidation. A handful of companies dominate specific product categories (e.g., NVIDIA in GPUs, Broadcom in networking/custom silicon, Qualcomm in mobile), while hundreds of smaller players compete in niches.
+
+*(Note: market size data from external industry sources — SIA, Gartner — not from uploaded filings)*
 
 [AVGO_10K_FY2025.htm, Item 1 — Competition]:
 > "Our competitors range from large international companies offering a wide range of products to smaller companies specializing in narrow markets. We expect the trend toward consolidation within many industries to continue, as some of our competitors have merged with or been acquired by other competitors, while others have begun collaborating with each other."
@@ -167,23 +170,29 @@ Capital expenditures were just $623M in FY2025 (~1% of revenue), reflecting the 
 
 ### Semiconductor Solutions
 
-| Competitor | Primary Overlap | Positioning vs. Broadcom |
-|---|---|---|
-| **NVIDIA** | AI data center (GPUs vs. custom XPUs), networking (Mellanox NICs/switches) | Dominant in general-purpose AI accelerators (GPUs). Broadcom competes via custom silicon (XPUs) and Ethernet networking — complementary in some deployments, competitive in others. |
-| **Marvell Technology** | Data center networking, custom silicon, storage controllers, optical components | Most direct semiconductor competitor. Narrower but overlapping portfolio in custom AI silicon and DPUs. Smaller scale (~$5.5B revenue vs. Broadcom's $36.9B semi segment). |
-| **Intel** | Ethernet NICs, data center silicon, server components | Historically dominant in server CPUs, now struggling to compete in AI accelerators. Still significant in Ethernet NICs and foundry ambitions. |
-| **Qualcomm / Skyworks / Qorvo** | Wireless RF front-end modules | Qualcomm competes in mobile connectivity; Skyworks and Qorvo in RF filters and modules. Broadcom's proprietary FBAR technology gives it performance advantages in premium smartphones. |
+| Competitor | Primary Overlap | Est. Market Position | Positioning vs. Broadcom |
+|---|---|---|---|
+| **NVIDIA** | AI accelerators (GPUs vs. custom XPUs), networking (Spectrum-X switches) | ~86-93% server GPU share (2024-2025) | Dominant in merchant AI accelerators. Broadcom competes via custom silicon (XPUs) and Ethernet networking. Broadcom's Tomahawk 6 reportedly leads NVIDIA's Spectrum-X1600 by ~1 year in Ethernet switching. |
+| **Marvell Technology** | Custom ASIC co-design, DPUs, storage, optical | ~20-30% custom ASIC market (growing) | Most direct competitor. Marvell AI revenue grew from ~$200M to >$1.5B (FY2023-2025). Broadcom holds ~70% of custom AI ASIC market vs. Marvell's growing share. Together they control ~95% of the co-design market. |
+| **Intel** | Ethernet NICs, data center silicon, foundry services | ~8.7% AI training accelerator share (est.) | Historically dominant in server CPUs; now diminished in AI. Gaudi 3 struggling for traction. Still significant in Ethernet NICs. |
+| **Qualcomm / Skyworks / Qorvo** | Wireless RF front-end modules | Qualcomm ~21%, Broadcom ~18% of RF FEM market | Qualcomm leads on platform integration; Broadcom leads on FBAR filter performance. Skyworks and Qorvo announced a $22B merger (Oct 2025) that would create a ~25% combined share entity. |
+
+*(Note: market share estimates from external industry research — TrendForce, GM Insights, analyst reports — not from uploaded filings)*
+
+**Custom ASIC TAM:** Broadcom CEO Hock Tan has stated that custom AI chip demand from three major customers could reach $60-90 billion by 2027. The data center semiconductor TAM was ~$209B in 2024, projected to reach ~$492-500B by 2030 (Yole Group).
 
 ### Infrastructure Software
 
-| Competitor | Primary Overlap | Positioning vs. Broadcom |
-|---|---|---|
-| **Nutanix** | Hyperconverged infrastructure, private cloud | Most direct VMware/VCF competitor. Smaller (~$2B revenue) but benefits from VMware customer frustration over Broadcom's pricing changes. |
-| **Red Hat (IBM)** | Linux-based virtualization (OpenShift), hybrid cloud | Competes with open-source alternatives to VMware. Growing share in container orchestration. |
-| **IBM** | Mainframe software, enterprise security | Overlaps in mainframe software (IBM vs. CA Technologies/Broadcom). IBM is both a competitor and a major platform partner. |
-| **CrowdStrike / Palo Alto Networks** | Endpoint security, network security | More focused cybersecurity competitors vs. Broadcom's Symantec/Carbon Black portfolio. Generally considered stronger in next-gen endpoint security. |
+| Competitor | Primary Overlap | Est. Market Position | Positioning vs. Broadcom |
+|---|---|---|---|
+| **Nutanix** | Hyperconverged infrastructure, private cloud | AHV hypervisor ~6% share (2024, up from 3-4% in 2022) | Most direct VCF competitor. Reports 40% of FY2025 bookings were VMware displacements. Primary beneficiary of Broadcom's pricing changes. |
+| **Microsoft (Hyper-V)** | Server virtualization, Azure Stack | ~17% hypervisor share (2024, up from 15%) | Free with Windows Server licensing creates price advantage. Growing share as VMware alternative. |
+| **Red Hat (IBM)** | OpenShift Virtualization, hybrid cloud | Part of broader open-source alternative movement | KVM-based alternative gaining attention post-Broadcom pricing changes. |
+| **CrowdStrike / Palo Alto** | Endpoint security, network security | Leaders in next-gen endpoint security | More focused cybersecurity competitors vs. Broadcom's Symantec/Carbon Black portfolio. |
 
-Not found in available filings: specific market share data for any of Broadcom's product lines. The company does not disclose TAM estimates or market share figures.
+**VMware market position:** VMware holds ~72% of the server virtualization hypervisor market (2024), down from ~77.5% in 2022. Gartner estimates this could decline to ~40% by 2029 due to post-acquisition pricing pressure. However, Broadcom reports 87% of VMware's top 10,000 customers have signed VCF subscriptions within the first year of ownership.
+
+*(Note: hypervisor share estimates from Gartner and Cloud Data Insights — not from uploaded filings)*
 
 ---
 
@@ -195,6 +204,6 @@ Not found in available filings: specific market share data for any of Broadcom's
 
 3. **The semiconductor industry's cyclicality is real but unevenly distributed across Broadcom's portfolio.** AI networking is in a secular growth phase; broadband, wireless, and storage are in traditional cyclical patterns. The mix shift toward AI and software structurally reduces Broadcom's overall cyclicality versus its historical profile.
 
-4. **Export controls and U.S.-China trade tensions represent the most unpredictable structural risk.** With 56% of revenue from Asia Pacific and a TSMC-dependent supply chain, Broadcom has dual exposure — both on the demand side (customer restrictions) and supply side (Taiwan geopolitical risk). The filing acknowledges this directly but does not quantify the China-specific revenue exposure.
+4. **Export controls and U.S.-China trade tensions represent the most unpredictable structural risk.** China (including Hong Kong) generated $11.2B in revenue (17.5% of total) in FY2025, though the company notes much of this is shipped through China for end-demand elsewhere. With 56% of revenue from Asia Pacific, 95% of outsourced wafers from TSMC, and escalating U.S.-China tensions (tariffs exceeding 100% on both sides as of April 2025), Broadcom has dual exposure — demand side (customer restrictions) and supply side (Taiwan geopolitical risk).
 
 5. **The capital-light model ($623M capex on $63.9B revenue) is a durable structural advantage.** By outsourcing manufacturing and operating a software-heavy portfolio, Broadcom converts an unusually high share of revenue to free cash flow. This funds the acquisition-driven strategy that built the company. The risk is that the fabless model concentrates supply chain risk in a small number of foundry partners — principally TSMC.
