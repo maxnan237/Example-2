@@ -243,13 +243,15 @@ Leverage has improved rapidly from ~2.6x to ~1.5x in a single year. Interest exp
 
 The debt is well-laddered across maturities from 2025 to 2051:
 
-| Maturity Window | Approximate Outstanding |
+| Fiscal Year | Scheduled Principal |
 |---|---|
-| Current (within 12 months) | $3,152M |
-| 2027-2028 | ~$9.5B |
-| 2029-2032 | ~$22B |
-| 2033-2038 | ~$18B |
-| 2039-2051 | ~$14.5B |
+| FY2026 | $3,152M |
+| FY2027 | $2,500M |
+| FY2028 | $7,120M |
+| FY2029 | $4,655M |
+| FY2030 | $6,406M |
+| Thereafter | $43,287M |
+| **Total** | **$67,120M** |
 
 No significant near-term refinancing cliff. The current portion ($3.15B) is manageable against $16.2B in cash and $27.5B in annual operating cash flow.
 
@@ -286,12 +288,19 @@ No significant near-term refinancing cliff. The current portion ($3.15B) is mana
 
 ### Red flags
 
-**DSO increase (+9.5 days):** Accounts receivable grew 62% on 24% revenue growth. This is partly explained by customer concentration:
+**DSO increase (+9.5 days) — but the real picture is worse.** Reported AR of $7.1B understates true receivables because Broadcom sells receivables off-balance-sheet through factoring arrangements:
+
+[AVGO_10K_FY2025.htm, Note — Accounts Receivable Factoring]:
+> "Total trade accounts receivable sold under the factoring arrangements were $7,401 million, $5,900 million and $3,975 million during fiscal years 2025, 2024 and 2023, respectively."
+
+**Adjusted DSO** (adding back factored AR): ($7,145M + $7,401M) / ($63,887M / 365) = **83 days** — more than double the reported 40.8 days. The factoring has grown 86% in two years ($4.0B → $7.4B), masking the true deterioration in collection timing.
+
+Customer concentration compounds this:
 
 [AVGO_10K_FY2025.htm, Segment Note]:
 > "One customer accounted for 44% and 18% of our net accounts receivable balance as of November 2, 2025 and November 3, 2024, respectively."
 
-One customer represents $3.1B of the $7.1B AR balance and 44% of the total — up from 18%. This suggests a large customer took delivery of product late in Q4 with extended payment terms, or there's a timing mismatch in collections. Worth monitoring for any credit risk implications.
+One customer represents $3.1B of the $7.1B on-balance-sheet AR (44%) — up from 18%. Combined with the $7.4B in factored receivables, Broadcom's true gross AR is ~$14.5B on $63.9B in revenue.
 
 **Inventory build (+29%):** Inventory grew faster than revenue, from $1.76B to $2.27B. This could indicate planned builds ahead of strong demand (bullish) or slower-than-expected sell-through (bearish). In context of Broadcom's reported strong AI demand, the former interpretation is more likely.
 
@@ -357,3 +366,11 @@ $97.8B in goodwill (57% of assets) means a write-down, while unlikely given curr
 ### 5. AR concentration is extreme
 
 One customer at 44% of AR ($3.1B) creates binary collection risk. While this likely represents a creditworthy hyperscaler, any payment dispute would create a meaningful working capital squeeze.
+
+### 6. AR factoring flatters reported working capital
+
+Broadcom sold $7.4B in receivables off-balance-sheet in FY2025 (up from $4.0B in FY2023). This removes AR from the balance sheet and accelerates cash collection into operating cash flow. Reported DSO of 40.8 days would be ~83 days without factoring. This does not invalidate the FCF figure (the cash is real), but it obscures the true credit extension to customers and makes year-over-year working capital trends misleading. The rapid growth in factoring volume (86% in two years) suggests increasing reliance on this mechanism.
+
+### 7. Contract liabilities declined QoQ
+
+Total contract liabilities fell from $14,495M (FY2024) to $13,016M (FY2025) — a $1.5B decline, driven by the long-term portion dropping from $5,100M to $3,547M. This could reflect revenue recognition outpacing new bookings, or shorter contract durations. Worth monitoring as a leading indicator of software renewal health.

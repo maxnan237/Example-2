@@ -126,7 +126,14 @@ At 57% of assets, even a 20% impairment ($19.6B) would eliminate nearly one quar
 
 Not found in available filings: specific quantification of non-cancelable purchase commitments. However, the filing notes dependence on purchase orders with no long-term commitments — meaning Broadcom also lacks guaranteed supply, creating asymmetric risk.
 
-### 5b. Deferred payment / AI leasing risk
+### 5b. AR factoring masks true receivables exposure
+
+[AVGO_10K_FY2025.htm, Note — Accounts Receivable Factoring]:
+> "Total trade accounts receivable sold under the factoring arrangements were $7,401 million, $5,900 million and $3,975 million during fiscal years 2025, 2024 and 2023, respectively."
+
+Broadcom sold $7.4B in receivables off-balance-sheet in FY2025. Adding this back, true gross AR is ~$14.5B — not the $7.1B reported. True DSO is ~83 days, not 40.8. The factoring program has grown 86% in two years, and if factoring facilities were withdrawn (e.g., during a credit crunch), Broadcom would need to absorb ~$7.4B in additional working capital on its balance sheet.
+
+### 5c. Deferred payment / AI leasing risk
 
 [AVGO_10K_FY2025.htm, Risk Factors]:
 > "We may offer and have offered alternative financings or other novel or deferred payment models for the leasing of AI racks or systems based on our XPUs [...] which could have a material adverse effect on our revenue, free cash flow and gross margin and expose us to credit or customer default risks."
