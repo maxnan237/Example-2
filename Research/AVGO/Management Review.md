@@ -45,7 +45,20 @@ Post-VMware, Broadcom divested the non-core End User Computing unit to KKR for $
 |---|---|---|---|---|
 | Buybacks (program) | $2,450M | $7,176M | $5,824M | $7,000M |
 
-Buybacks were reduced in FY2025 ($2.45B vs $7.18B prior year) to prioritize deleveraging — a rational capital allocation decision given $67B in debt. Not found in available filings: average repurchase price per share by period.
+Buybacks were reduced in FY2025 ($2.45B vs $7.18B prior year) to prioritize deleveraging — a rational capital allocation decision given $67B in debt.
+
+**Repurchase price history (split-adjusted):**
+
+[AVGO_10K_FY2025.htm and AVGO_10K_FY2024.htm, Note 11 — Stockholders' Equity]:
+
+| Period | Shares (M) | Amount | Implied Avg Price |
+|---|---|---|---|
+| FY2022 | ~117M | $7,000M | ~$60/share |
+| FY2023 | ~91M | $5,824M | ~$64/share |
+| Q1 FY2024 | ~67M | $7,176M | ~$107/share |
+| FY2025 | ~16M | $2,450M | ~$153/share |
+
+Repurchases have been made at prices well below the current ~$350 — this is good capital allocation in hindsight, though the declining volume at higher prices suggests management is price-aware rather than mechanically buying.
 
 ### Dividend growth
 
