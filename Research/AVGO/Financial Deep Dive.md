@@ -176,7 +176,16 @@ Even after deducting SBC, Broadcom generates 30%+ FCF margins — still exceptio
 [AVGO_10K_FY2025.htm, MD&A]:
 > "Dividends per share to common stockholders $2.360 [...] $2.105"
 
-Dividends per share: $2.360 (FY25), $2.105 (FY24) — +12% growth. Dividends consumed 41% of FCF in FY2025 ($11.1B / $26.9B), a sustainable payout ratio.
+**Dividend per share history (split-adjusted):**
+
+[AVGO_10K_FY2025.htm and AVGO_10K_FY2024.htm, Stockholders' Equity Notes]:
+
+| | FY2025 | FY2024 | FY2023 | FY2022 | FY2021 |
+|---|---|---|---|---|---|
+| DPS | $2.360 | $2.105 | $1.840 | $1.640 | $1.440 |
+| YoY Growth | +12.1% | +14.4% | +12.2% | +13.9% | — |
+
+Note: Broadcom completed a **10-for-1 stock split on July 12, 2024**. FY2023 and prior DPS figures are split-adjusted. Dividends have compounded at ~13% annually for the last four years. DPS consumed 41% of FCF in FY2025 ($11.1B / $26.9B) — a sustainable payout ratio.
 
 ### Buybacks
 
@@ -199,13 +208,23 @@ Cumulative 5-year capital deployment: ~$78B in shareholder returns + $26B in VMw
 
 ### Leverage
 
-| | FY2025 | FY2024 |
-|---|---|---|
-| Total Debt Principal | $67,120M | $69,847M |
-| Cash & Equivalents | $16,178M | $9,348M |
-| **Net Debt** | **$50,942M** | **$60,499M** |
+| | FY2025 | FY2024 | FY2023 (pre-VMware) |
+|---|---|---|---|
+| Total Debt Principal | $67,120M | $69,847M | $40,815M |
+| Cash & Equivalents | $16,178M | $9,348M | $14,189M |
+| **Net Debt** | **$50,942M** | **$60,499M** | **$26,626M** |
 
-Net debt declined ~$9.6B in one year through debt repayment and cash accumulation.
+The VMware acquisition nearly doubled the debt load ($40.8B → $69.8B). Net debt has declined ~$9.6B from the FY2024 peak through repayment ($18.5B paid vs. $15.7B issued) and cash accumulation.
+
+**Contract liabilities (deferred revenue):**
+
+| | FY2025 | FY2024 | FY2023 (pre-VMware) |
+|---|---|---|---|
+| Current | ~$10.5B (est.) | $9,395M | $2,487M |
+| Long-term | ~$4.5B (est.) | $5,100M | $299M |
+| **Total** | **~$15B (est.)** | **$14,495M** | **$2,786M** |
+
+Contract liabilities grew 5x from FY2023 to FY2024, reflecting VMware's large deferred subscription revenue base. This $14.5B+ represents prepaid revenue that will be recognized ratably — a strong forward indicator.
 
 ### EBITDA and coverage ratios
 
