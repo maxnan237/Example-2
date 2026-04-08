@@ -149,6 +149,21 @@ Asia Pacific dominates revenue, driven by semiconductor manufacturing and distri
 [AVGO_10K_FY2025.htm, Item 1]:
 > "Many of our semiconductor customers design products in North America or Europe that are then manufactured in Asia."
 
+### Country-level revenue (FY2025)
+
+[AVGO_10K_FY2025.htm, Segment Note — Geographic Information]:
+> "Net revenue from the United States for fiscal years 2025, 2024 and 2023 was $16,506 million, $12,887 million and $6,975 million, respectively. Net revenue from China (including Hong Kong) for fiscal years 2025, 2024 and 2023 was $11,155 million, $10,483 million and $11,533 million, respectively. Net revenue from Singapore for fiscal years 2025, 2024 and 2023 was $10,796 million, $9,559 million and $4,479 million, respectively. Net revenue from Taiwan for fiscal year 2025 was $6,451 million."
+
+| Country | FY2025 | FY2024 | FY2023 |
+|---|---|---|---|
+| United States | $16,506M | $12,887M | $6,975M |
+| China (incl. Hong Kong) | $11,155M | $10,483M | $11,533M |
+| Singapore | $10,796M | $9,559M | $4,479M |
+| Taiwan | $6,451M | <10% | <10% |
+| Other | $18,979M | $18,645M | $12,832M |
+
+Important caveat: the company notes that "a substantial portion of our products shipped or delivered to China (including Hong Kong) is included in devices sold by our end customers in the United States and Europe." China end-demand is likely overstated by the shipment-destination methodology.
+
 The Americas share has been growing (23% in FY2023 to 30% in FY2025), partly reflecting the VMware acquisition adding U.S.-based software revenue.
 
 ---
@@ -206,7 +221,10 @@ Total operating income was $25,484M (39.9% margin) in FY2025, up from $13,463M (
 
 ### Manufacturing — heavily outsourced, TSMC-dependent
 
-Broadcom operates a primarily **fabless model**, outsourcing the majority of semiconductor manufacturing:
+Broadcom operates a primarily **fabless model**, outsourcing the majority of semiconductor manufacturing. TSMC concentration is extreme:
+
+[AVGO_10K_FY2025.htm, Risk Factors]:
+> "During fiscal year 2025, approximately 95% of the wafers manufactured by our CMs were produced by TSMC."
 
 [AVGO_10K_FY2025.htm, Item 1 — Manufacturing]:
 > "The majority of our front-end wafer manufacturing operations is outsourced to external foundries, including Taiwan Semiconductor Manufacturing Company Limited ('TSMC'). We use third-party CMs for a significant majority of our assembly and test operations, including TSMC, Advanced Semiconductor Engineering, Inc., Foxconn Technology Group, Amkor Technology, Inc. and Siliconware Precision Industries Co., Ltd."
@@ -219,8 +237,13 @@ Internal III-V semiconductor wafer fabrication is based in the **U.S. and Singap
 
 ### Supply chain
 
+[AVGO_10K_FY2025.htm, Risk Factors]:
+> "During fiscal year 2025, we purchased approximately two-thirds of our manufacturing materials from five materials suppliers, some of which are single source suppliers."
+
 [AVGO_10K_FY2025.htm, Item 1 — Manufacturing]:
 > "We purchase materials from hundreds of suppliers on a global basis. These purchases are generally on a purchase order basis and some parts are not readily available from alternate suppliers due to their unique design or the length of time and cost necessary for re-design or qualification."
+
+No long-term contracts protect supply: "We do not generally have long-term capacity commitments with our CMs and substantially all of our manufacturing services are on a purchase order basis with no minimum quantities."
 
 ### Key customer dependency
 
