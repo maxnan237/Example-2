@@ -1,10 +1,10 @@
 # Investment Research Vault
 
-*Last updated: 2026-04-12 | 6 companies covered*
+*Last updated: 2026-04-12 | 7 companies covered*
 
-A long-term equity research vault covering six companies across diverse sectors. Each company folder contains a full research package: Business Overview, Industry Scan, Financial Deep Dive, Moat Analysis, Management Review, Valuation Check, Bear Case, Quarterly Earnings analyses, Decision Log, and a summary Investment Memo (markdown + PDF).
+A long-term equity research vault covering seven companies across diverse sectors. Each company folder contains a full research package: Business Overview, Industry Scan, Financial Deep Dive, Moat Analysis, Management Review, Valuation Check, Bear Case, Quarterly Earnings analyses, Decision Log, and a summary Investment Memo (markdown + PDF).
 
-All research is grounded in SEC 10-K filings and supplemented with flagged external sources (StockAnalysis, Seeking Alpha, Nareit, industry research firms).
+All research is grounded in SEC 10-K filings (or 40-F for Canadian filers) and supplemented with flagged external sources (StockAnalysis, Seeking Alpha, Nareit, industry research firms).
 
 ---
 
@@ -18,6 +18,7 @@ All research is grounded in SEC 10-K filings and supplemented with flagged exter
 | [[VICI/VICI Investment Memo\|VICI Properties]] | VICI | Gaming REIT | ~$30B | $4.0B | Income Play |
 | [[STRA/STRA Investment Memo\|Strategic Education]] | STRA | Post-Secondary Education | ~$1.83B | $1.27B | Value Play |
 | [[CODA/CODA Investment Memo\|Coda Octopus]] | CODA | Underwater Sonar / Defense | ~$138M | $27M | Speculative |
+| [[ODV/ODV Investment Memo\|Osisko Development]] | ODV | Gold Mining (Pre-Production) | ~$1.0B (USD) | C$35M | Speculative (High-Risk) |
 
 ---
 
@@ -31,6 +32,7 @@ All research is grounded in SEC 10-K filings and supplemented with flagged exter
 | VICI | **Very Strong** | Stable | 10.8x P/FFO | **6.40%** | $17B debt (IG) |
 | STRA | Strong | Stable | ~15x | 2.93% | **Debt-free** |
 | CODA | Strong (niche) | Widening | ~33x | 0% | **Debt-free** |
+| ODV | Moderate (regulatory) | Narrowing→Widening | n/a (pre-rev) | 0% | Net cash (going concern flag) |
 
 ---
 
@@ -124,6 +126,21 @@ Micro-cap underwater sonar/marine tech. Unique real-time 3D Echoscope sonar (no 
 - [[CODA/Decision Log]]
 - [[CODA/Earnings/Q1 2026]]
 - [[CODA/CODA Investment Memo]] 📄
+
+### 🪙 [[ODV/Business Overview|Osisko Development (ODV)]]
+
+Pre-production Canadian gold miner. Cariboo Gold Project (BC) — 2.07 Moz P&P reserves, fully permitted, US$1,157/oz AISC. Gold at US$4,750/oz creates ~C$4B+ potential NPV. But going concern warning, FID not declared, 262% dilution since Jan 2024, 5% perpetual NSR to OR Royalties, Xatśūll First Nation opposition. **High-risk speculative bet on gold + execution.**
+
+- [[ODV/Business Overview]]
+- [[ODV/Industry Scan]]
+- [[ODV/Financial Deep Dive]]
+- [[ODV/Moat Analysis]]
+- [[ODV/Management Review]]
+- [[ODV/Valuation Check]]
+- [[ODV/Bear Case]]
+- [[ODV/Decision Log]]
+- [[ODV/Earnings/FY2025]]
+- [[ODV/ODV Investment Memo]] 📄
 
 ---
 
