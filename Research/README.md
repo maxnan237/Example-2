@@ -1,6 +1,6 @@
 # Investment Research Vault
 
-*Last updated: 2026-04-12 | 7 companies covered*
+*Last updated: 2026-04-13 | 8 companies covered*
 
 A long-term equity research vault covering seven companies across diverse sectors. Each company folder contains a full research package: Business Overview, Industry Scan, Financial Deep Dive, Moat Analysis, Management Review, Valuation Check, Bear Case, Quarterly Earnings analyses, Decision Log, and a summary Investment Memo (markdown + PDF).
 
@@ -19,6 +19,7 @@ All research is grounded in SEC 10-K filings (or 40-F for Canadian filers) and s
 | [[STRA/STRA Investment Memo\|Strategic Education]] | STRA | Post-Secondary Education | ~$1.83B | $1.27B | Value Play |
 | [[CODA/CODA Investment Memo\|Coda Octopus]] | CODA | Underwater Sonar / Defense | ~$138M | $27M | Speculative |
 | [[ODV/ODV Investment Memo\|Osisko Development]] | ODV | Gold Mining (Pre-Production) | ~$1.0B (USD) | C$35M | Speculative (High-Risk) |
+| [[CVE/CVE Investment Memo\|Cenovus Energy]] | CVE | Integrated Oil & Gas (Canada) | ~C$68B | C$49.7B | Monitor |
 
 ---
 
@@ -33,6 +34,7 @@ All research is grounded in SEC 10-K filings (or 40-F for Canadian filers) and s
 | STRA | Strong | Stable | ~15x | 2.93% | **Debt-free** |
 | CODA | Strong (niche) | Widening | ~33x | 0% | **Debt-free** |
 | ODV | Moderate (regulatory) | Narrowing→Widening | n/a (pre-rev) | 0% | Net cash (going concern flag) |
+| CVE | Moderate | Stable | ~16.7x | ~2.5% | C$8.3B net debt (post-MEG) |
 
 ---
 
@@ -142,6 +144,21 @@ Pre-production Canadian gold miner. Cariboo Gold Project (BC) — 2.07 Moz P&P r
 - [[ODV/Earnings/FY2025]]
 - [[ODV/ODV Investment Memo]] 📄
 
+### 🛢️ [[CVE/Business Overview|Cenovus Energy (CVE)]]
+
+Canadian integrated oil & gas — 644 MBOE/d oil sands SAGD (Foster Creek, Christina Lake, Sunrise) + 3 US heavy-oil refineries (Lima, Toledo, Superior). Just acquired MEG Energy (Nov 2025, C$8.5B+) for adjacent Christina Lake position. Stock +131% in past year on oil price rally + MEG accretion. WTI at US$105+/bbl. Forward P/E ~12x. Constrained capital returns until C$8.3B Net Debt deleveraged to C$4B target. **Cyclical peak risk — bull case largely priced in.**
+
+- [[CVE/Business Overview]]
+- [[CVE/Industry Scan]]
+- [[CVE/Financial Deep Dive]]
+- [[CVE/Moat Analysis]]
+- [[CVE/Management Review]]
+- [[CVE/Valuation Check]]
+- [[CVE/Bear Case]]
+- [[CVE/Decision Log]]
+- [[CVE/Earnings/Q4 2025]]
+- [[CVE/CVE Investment Memo]] 📄
+
 ---
 
 ## Thematic Index
@@ -154,22 +171,25 @@ Pre-production Canadian gold miner. Cariboo Gold Project (BC) — 2.07 Moz P&P r
 - **Real estate / income:** [[VICI/VICI Investment Memo|VICI]]
 - **Education:** [[STRA/STRA Investment Memo|STRA]]
 - **Defense / undersea:** [[CODA/CODA Investment Memo|CODA]]
+- **Gold mining (pre-production):** [[ODV/ODV Investment Memo|ODV]]
+- **Integrated oil & gas:** [[CVE/CVE Investment Memo|CVE]]
 
 ### By Stance
 
 - **Income play (high yield, stable):** [[VICI/Decision Log|VICI]]
 - **Constructive (asymmetric upside):** [[UBER/Decision Log|UBER]]
 - **Value play (patient capital):** [[STRA/Decision Log|STRA]]
-- **Monitor (wait for better entry):** [[AVGO/Decision Log|AVGO]]
+- **Monitor (wait for better entry):** [[AVGO/Decision Log|AVGO]] · [[CVE/Decision Log|CVE]]
 - **Speculative (credit cycle bet):** [[PGY/Decision Log|PGY]]
 - **Speculative (micro-cap tech):** [[CODA/Decision Log|CODA]]
+- **Speculative (pre-production gold):** [[ODV/Decision Log|ODV]]
 
 ### By Risk Profile
 
 - **Lowest risk:** VICI (100% rent collection, IG debt)
 - **Low-moderate:** UBER, AVGO
-- **Moderate:** STRA
-- **High:** PGY, CODA
+- **Moderate:** STRA, CVE
+- **High:** PGY, CODA, ODV
 
 ---
 
