@@ -1,8 +1,8 @@
 # Investment Research Vault
 
-*Last updated: 2026-04-13 | 8 companies covered*
+*Last updated: 2026-04-14 | 9 companies covered*
 
-A long-term equity research vault covering seven companies across diverse sectors. Each company folder contains a full research package: Business Overview, Industry Scan, Financial Deep Dive, Moat Analysis, Management Review, Valuation Check, Bear Case, Quarterly Earnings analyses, Decision Log, and a summary Investment Memo (markdown + PDF).
+A long-term equity research vault covering nine companies across diverse sectors. Each company folder contains a full research package: Business Overview, Industry Scan, Financial Deep Dive, Moat Analysis, Management Review, Valuation Check, Bear Case, Quarterly Earnings analyses, Decision Log, and a summary Investment Memo (markdown + PDF).
 
 All research is grounded in SEC 10-K filings (or 40-F for Canadian filers) and supplemented with flagged external sources (StockAnalysis, Seeking Alpha, Nareit, industry research firms).
 
@@ -20,6 +20,7 @@ All research is grounded in SEC 10-K filings (or 40-F for Canadian filers) and s
 | [[CODA/CODA Investment Memo\|Coda Octopus]] | CODA | Underwater Sonar / Defense | ~$138M | $27M | Speculative |
 | [[ODV/ODV Investment Memo\|Osisko Development]] | ODV | Gold Mining (Pre-Production) | ~$1.0B (USD) | C$35M | Speculative (High-Risk) |
 | [[CVE/CVE Investment Memo\|Cenovus Energy]] | CVE | Integrated Oil & Gas (Canada) | ~C$68B | C$49.7B | Monitor |
+| [[IBIO/IBIO Investment Memo\|iBio]] | IBIO | Preclinical Biotech (Obesity Antibodies) | ~$76.5M | $0.4M | Speculative (Watchlist) |
 
 ---
 
@@ -35,6 +36,7 @@ All research is grounded in SEC 10-K filings (or 40-F for Canadian filers) and s
 | CODA | Strong (niche) | Widening | ~33x | 0% | **Debt-free** |
 | ODV | Moderate (regulatory) | Narrowing→Widening | n/a (pre-rev) | 0% | Net cash (going concern flag) |
 | CVE | Moderate | Stable | ~16.7x | ~2.5% | C$8.3B net debt (post-MEG) |
+| IBIO | **None** | Narrowing | N/M (net loss) | 0% | Near-debt-free; trades at ~1x net cash |
 
 ---
 
@@ -159,6 +161,21 @@ Canadian integrated oil & gas — 644 MBOE/d oil sands SAGD (Foster Creek, Chris
 - [[CVE/Earnings/Q4 2025]]
 - [[CVE/CVE Investment Memo]] 📄
 
+### 🧬 [[IBIO/Business Overview|iBio (IBIO)]]
+
+Preclinical-stage San Diego biotech (20 employees) developing AI-designed antibodies for obesity and cardiometabolic disease. Lead asset IBIO-600 (anti-myostatin, in-licensed from AstralBio) just cleared Australia TGA Phase 1 — first clinical trial in company history. Thesis: 2-4x/year dosing antibodies preserve muscle during GLP-1 weight loss. Trades at net cash (~$2.16 NCPS vs. $2.22 price) — market assigns ~$0M EV to pipeline. $332M accumulated deficit, two reverse stock splits in 2022-2023, massive warrant overhang (71.5M Series G/H + 71.5M pre-funded warrants from Aug 2025 offering). Frazier Life Sciences led $26M January 2026 PIPE. Runway into ~March 2028. **Binary clinical option — watch below $2.00.**
+
+- [[IBIO/Business Overview]]
+- [[IBIO/Industry Scan]]
+- [[IBIO/Financial Deep Dive]]
+- [[IBIO/Moat Analysis]]
+- [[IBIO/Management Review]]
+- [[IBIO/Valuation Check]]
+- [[IBIO/Bear Case]]
+- [[IBIO/Decision Log]]
+- [[IBIO/Earnings/Q2 FY2026]]
+- [[IBIO/IBIO Investment Memo]] 📄
+
 ---
 
 ## Thematic Index
@@ -173,6 +190,7 @@ Canadian integrated oil & gas — 644 MBOE/d oil sands SAGD (Foster Creek, Chris
 - **Defense / undersea:** [[CODA/CODA Investment Memo|CODA]]
 - **Gold mining (pre-production):** [[ODV/ODV Investment Memo|ODV]]
 - **Integrated oil & gas:** [[CVE/CVE Investment Memo|CVE]]
+- **Biotech (preclinical, obesity antibodies):** [[IBIO/IBIO Investment Memo|IBIO]]
 
 ### By Stance
 
@@ -183,6 +201,7 @@ Canadian integrated oil & gas — 644 MBOE/d oil sands SAGD (Foster Creek, Chris
 - **Speculative (credit cycle bet):** [[PGY/Decision Log|PGY]]
 - **Speculative (micro-cap tech):** [[CODA/Decision Log|CODA]]
 - **Speculative (pre-production gold):** [[ODV/Decision Log|ODV]]
+- **Speculative (preclinical biotech option):** [[IBIO/Decision Log|IBIO]]
 
 ### By Risk Profile
 
@@ -190,6 +209,7 @@ Canadian integrated oil & gas — 644 MBOE/d oil sands SAGD (Foster Creek, Chris
 - **Low-moderate:** UBER, AVGO
 - **Moderate:** STRA, CVE
 - **High:** PGY, CODA, ODV
+- **Very high (binary clinical):** IBIO
 
 ---
 
@@ -222,5 +242,6 @@ Each company folder contains a `Filings/` subfolder with the original SEC 10-K f
 - VICI: 3 filings (FY2023-FY2025)
 - STRA: 3 filings (FY2023-FY2025)
 - CODA: 3 filings (FY2023, FY2024, FY2025 10-K/A)
+- IBIO: 3 filings (FY2023, FY2024, FY2025)
 
-Total: 21 10-K filings downloaded directly from SEC EDGAR.
+Total: 24 10-K/40-F filings downloaded directly from SEC EDGAR.
