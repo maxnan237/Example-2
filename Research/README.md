@@ -1,8 +1,8 @@
 # Investment Research Vault
 
-*Last updated: 2026-07-02 | 11 companies covered*
+*Last updated: 2026-07-02 | 12 companies covered*
 
-A long-term equity research vault covering eleven companies across diverse sectors. Each company folder contains a full research package: Business Overview, Industry Scan, Financial Deep Dive, Moat Analysis, Management Review, Valuation Check, Bear Case, Quarterly Earnings analyses, Decision Log, and a summary Investment Memo (markdown + PDF).
+A long-term equity research vault covering twelve companies across diverse sectors. Each company folder contains a full research package: Business Overview, Industry Scan, Financial Deep Dive, Moat Analysis, Management Review, Valuation Check, Bear Case, Quarterly Earnings analyses, Decision Log, and a summary Investment Memo (markdown + PDF).
 
 All research is grounded in SEC 10-K filings (or 40-F for Canadian filers) and supplemented with flagged external sources (StockAnalysis, Seeking Alpha, Nareit, industry research firms).
 
@@ -23,6 +23,7 @@ All research is grounded in SEC 10-K filings (or 40-F for Canadian filers) and s
 | [[TME/TME Investment Memo\|Tencent Music Entertainment]] | TME | China Online Music / Audio | ~$13.6B | RMB32.9B | Monitor |
 | [[MCD/MCD Investment Memo\|McDonald's Corporation]] | MCD | Quick-Service Restaurants | ~$191.4B | $26.9B | Monitor |
 | [[MRVL/MRVL Investment Memo\|Marvell Technology]] | MRVL | AI/Data Infrastructure Semis | ~$238.0B | $8.2B | Monitor (Speculative lean) |
+| [[MSFT/MSFT Investment Memo\|Microsoft Corporation]] | MSFT | Enterprise Software / Cloud | ~$2.85T | $281.7B | Monitor |
 
 ---
 
@@ -41,6 +42,7 @@ All research is grounded in SEC 10-K filings (or 40-F for Canadian filers) and s
 | TME | Weak-to-Moderate | Narrowing | ~10.5x | 2.77% | Net cash (~$4.9B) |
 | MCD | Strong | Stable | ~22.5x | ~2.76% | $40.0B debt (neg. book equity) |
 | MRVL | Moderate (design-win lock-in, weak efficient scale) | Narrowing→Widening (unresolved) | ~94x (GAAP) | 0.09% | $4.5B debt, net cash positive post-divestiture |
+| MSFT | Strong | Stable (capex-driven margin question) | ~22.9x | 0.95% | $43.2B debt, net cash positive |
 
 ---
 
@@ -210,6 +212,21 @@ Fabless AI/data-infrastructure semiconductor company — custom ASICs, interconn
 - [[MRVL/Earnings/Q1 FY2027]]
 - [[MRVL/MRVL Investment Memo]] 📄
 
+### 💻 [[MSFT/Business Overview|Microsoft Corporation (MSFT)]]
+
+Diversified enterprise-software and cloud giant — Productivity and Business Processes, Intelligent Cloud (Azure), More Personal Computing. Azure +40% YoY (external, Q3 FY2026) outpacing AWS but trailing Google Cloud. AI capex more than doubled in two years (~$190B calendar-2026 guide) has compressed free cash flow and Intelligent Cloud margin, driving the stock's worst month since Dec 2000 despite beat-and-raise results. OpenAI Azure-exclusivity — the strongest disclosed AI moat asset — is externally reported as restructured to non-exclusive terms. Cheapest mega-cap tech multiple, but the capex/FCF question is real, not just sentiment.
+
+- [[MSFT/Business Overview]]
+- [[MSFT/Industry Scan]]
+- [[MSFT/Financial Deep Dive]]
+- [[MSFT/Moat Analysis]]
+- [[MSFT/Management Review]]
+- [[MSFT/Valuation Check]]
+- [[MSFT/Bear Case]]
+- [[MSFT/Decision Log]]
+- [[MSFT/Earnings/Q3 FY2026]]
+- [[MSFT/MSFT Investment Memo]] 📄
+
 ---
 
 ## Thematic Index
@@ -227,13 +244,14 @@ Fabless AI/data-infrastructure semiconductor company — custom ASICs, interconn
 - **China internet / music streaming:** [[TME/TME Investment Memo|TME]]
 - **Quick-service restaurants / franchising:** [[MCD/MCD Investment Memo|MCD]]
 - **AI infrastructure / custom semiconductors:** [[MRVL/MRVL Investment Memo|MRVL]]
+- **Enterprise software / cloud:** [[MSFT/MSFT Investment Memo|MSFT]]
 
 ### By Stance
 
 - **Income play (high yield, stable):** [[VICI/Decision Log|VICI]]
 - **Constructive (asymmetric upside):** [[UBER/Decision Log|UBER]]
 - **Value play (patient capital):** [[STRA/Decision Log|STRA]]
-- **Monitor (wait for better entry):** [[AVGO/Decision Log|AVGO]] · [[CVE/Decision Log|CVE]] · [[TME/Decision Log|TME]] · [[MCD/Decision Log|MCD]] · [[MRVL/Decision Log|MRVL]]
+- **Monitor (wait for better entry):** [[AVGO/Decision Log|AVGO]] · [[CVE/Decision Log|CVE]] · [[TME/Decision Log|TME]] · [[MCD/Decision Log|MCD]] · [[MRVL/Decision Log|MRVL]] · [[MSFT/Decision Log|MSFT]]
 - **Speculative (credit cycle bet):** [[PGY/Decision Log|PGY]]
 - **Speculative (micro-cap tech):** [[CODA/Decision Log|CODA]]
 - **Speculative (pre-production gold):** [[ODV/Decision Log|ODV]]
@@ -241,7 +259,7 @@ Fabless AI/data-infrastructure semiconductor company — custom ASICs, interconn
 ### By Risk Profile
 
 - **Lowest risk:** VICI (100% rent collection, IG debt)
-- **Low-moderate:** UBER, AVGO, MCD
+- **Low-moderate:** UBER, AVGO, MCD, MSFT
 - **Moderate:** STRA, CVE
 - **High:** PGY, CODA, ODV, TME (China-ADR/VIE structural risk, controlling shareholder, undisclosed competitive threat), MRVL (extreme customer concentration, unconfirmed design-loss risk, elevated valuation)
 
@@ -279,5 +297,6 @@ Each company folder contains a `Filings/` subfolder with the original SEC filing
 - TME: 3 filings (FY2023-FY2025 Form 20-F)
 - MCD: 3 filings (FY2023-FY2025)
 - MRVL: 3 filings (FY2024-FY2026)
+- MSFT: 3 filings (FY2023-FY2025)
 
-Total: 30 SEC filings downloaded directly from SEC EDGAR.
+Total: 33 SEC filings downloaded directly from SEC EDGAR.
