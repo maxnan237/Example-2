@@ -1,8 +1,8 @@
 # Investment Research Vault
 
-*Last updated: 2026-07-02 | 12 companies covered*
+*Last updated: 2026-07-02 | 13 companies covered*
 
-A long-term equity research vault covering twelve companies across diverse sectors. Each company folder contains a full research package: Business Overview, Industry Scan, Financial Deep Dive, Moat Analysis, Management Review, Valuation Check, Bear Case, Quarterly Earnings analyses, Decision Log, and a summary Investment Memo (markdown + PDF).
+A long-term equity research vault covering thirteen companies across diverse sectors. Each company folder contains a full research package: Business Overview, Industry Scan, Financial Deep Dive, Moat Analysis, Management Review, Valuation Check, Bear Case, Quarterly Earnings analyses, Decision Log, and a summary Investment Memo (markdown + PDF).
 
 All research is grounded in SEC 10-K filings (or 40-F for Canadian filers) and supplemented with flagged external sources (StockAnalysis, Seeking Alpha, Nareit, industry research firms).
 
@@ -24,6 +24,7 @@ All research is grounded in SEC 10-K filings (or 40-F for Canadian filers) and s
 | [[MCD/MCD Investment Memo\|McDonald's Corporation]] | MCD | Quick-Service Restaurants | ~$191.4B | $26.9B | Monitor |
 | [[MRVL/MRVL Investment Memo\|Marvell Technology]] | MRVL | AI/Data Infrastructure Semis | ~$238.0B | $8.2B | Monitor (Speculative lean) |
 | [[MSFT/MSFT Investment Memo\|Microsoft Corporation]] | MSFT | Enterprise Software / Cloud | ~$2.85T | $281.7B | Monitor |
+| [[SHIP/SHIP Investment Memo\|Seanergy Maritime Holdings]] | SHIP | Dry Bulk Shipping (Capesize) | ~$289M | $158.1M | Speculative (High-Risk) |
 
 ---
 
@@ -43,6 +44,7 @@ All research is grounded in SEC 10-K filings (or 40-F for Canadian filers) and s
 | MCD | Strong | Stable | ~22.5x | ~2.76% | $40.0B debt (neg. book equity) |
 | MRVL | Moderate (design-win lock-in, weak efficient scale) | Narrowing→Widening (unresolved) | ~94x (GAAP) | 0.09% | $4.5B debt, net cash positive post-divestiture |
 | MSFT | Strong | Stable (capex-driven margin question) | ~22.9x | 0.95% | $43.2B debt, net cash positive |
+| SHIP | Absent-to-Weak (no moat) | Narrowing (aging fleet) | ~7.4x | 3.22% | $294.0M debt, ~58% loan-to-vessel-value |
 
 ---
 
@@ -227,6 +229,21 @@ Diversified enterprise-software and cloud giant — Productivity and Business Pr
 - [[MSFT/Earnings/Q3 FY2026]]
 - [[MSFT/MSFT Investment Memo]] 📄
 
+### 🚢 [[SHIP/Business Overview|Seanergy Maritime Holdings (SHIP)]]
+
+Pure-play Capesize/Newcastlemax dry bulk shipping company — 20 vessels, ~3.6M dwt, average fleet age 14.7 years (rising). Revenue almost entirely index-linked to the Baltic Capesize Index. Cheapest multiples among direct dry bulk peers and a ~0.5x discount to fleet NAV, but no structural moat, a super-voting preferred stake held by the CEO (acquired for $250 total), and recurring related-party transactions with United Maritime Corporation (same CEO). Credible 3-year operational turnaround, but the valuation discount may be a rational governance discount, not free money.
+
+- [[SHIP/Business Overview]]
+- [[SHIP/Industry Scan]]
+- [[SHIP/Financial Deep Dive]]
+- [[SHIP/Moat Analysis]]
+- [[SHIP/Management Review]]
+- [[SHIP/Valuation Check]]
+- [[SHIP/Bear Case]]
+- [[SHIP/Decision Log]]
+- [[SHIP/Earnings/Q1 2026]]
+- [[SHIP/SHIP Investment Memo]] 📄
+
 ---
 
 ## Thematic Index
@@ -245,6 +262,7 @@ Diversified enterprise-software and cloud giant — Productivity and Business Pr
 - **Quick-service restaurants / franchising:** [[MCD/MCD Investment Memo|MCD]]
 - **AI infrastructure / custom semiconductors:** [[MRVL/MRVL Investment Memo|MRVL]]
 - **Enterprise software / cloud:** [[MSFT/MSFT Investment Memo|MSFT]]
+- **Dry bulk shipping:** [[SHIP/SHIP Investment Memo|SHIP]]
 
 ### By Stance
 
@@ -255,13 +273,14 @@ Diversified enterprise-software and cloud giant — Productivity and Business Pr
 - **Speculative (credit cycle bet):** [[PGY/Decision Log|PGY]]
 - **Speculative (micro-cap tech):** [[CODA/Decision Log|CODA]]
 - **Speculative (pre-production gold):** [[ODV/Decision Log|ODV]]
+- **Speculative (shipping cycle + governance risk):** [[SHIP/Decision Log|SHIP]]
 
 ### By Risk Profile
 
 - **Lowest risk:** VICI (100% rent collection, IG debt)
 - **Low-moderate:** UBER, AVGO, MCD, MSFT
 - **Moderate:** STRA, CVE
-- **High:** PGY, CODA, ODV, TME (China-ADR/VIE structural risk, controlling shareholder, undisclosed competitive threat), MRVL (extreme customer concentration, unconfirmed design-loss risk, elevated valuation)
+- **High:** PGY, CODA, ODV, TME (China-ADR/VIE structural risk, controlling shareholder, undisclosed competitive threat), MRVL (extreme customer concentration, unconfirmed design-loss risk, elevated valuation), SHIP (no moat, super-voting governance structure, related-party dependency, freight-rate cyclicality)
 
 ---
 
@@ -298,5 +317,6 @@ Each company folder contains a `Filings/` subfolder with the original SEC filing
 - MCD: 3 filings (FY2023-FY2025)
 - MRVL: 3 filings (FY2024-FY2026)
 - MSFT: 3 filings (FY2023-FY2025)
+- SHIP: 3 filings (FY2023-FY2025 Form 20-F)
 
-Total: 33 SEC filings downloaded directly from SEC EDGAR.
+Total: 36 SEC filings downloaded directly from SEC EDGAR.
