@@ -1,8 +1,8 @@
 # Investment Research Vault
 
-*Last updated: 2026-04-13 | 8 companies covered*
+*Last updated: 2026-07-02 | 9 companies covered*
 
-A long-term equity research vault covering seven companies across diverse sectors. Each company folder contains a full research package: Business Overview, Industry Scan, Financial Deep Dive, Moat Analysis, Management Review, Valuation Check, Bear Case, Quarterly Earnings analyses, Decision Log, and a summary Investment Memo (markdown + PDF).
+A long-term equity research vault covering nine companies across diverse sectors. Each company folder contains a full research package: Business Overview, Industry Scan, Financial Deep Dive, Moat Analysis, Management Review, Valuation Check, Bear Case, Quarterly Earnings analyses, Decision Log, and a summary Investment Memo (markdown + PDF).
 
 All research is grounded in SEC 10-K filings (or 40-F for Canadian filers) and supplemented with flagged external sources (StockAnalysis, Seeking Alpha, Nareit, industry research firms).
 
@@ -20,6 +20,7 @@ All research is grounded in SEC 10-K filings (or 40-F for Canadian filers) and s
 | [[CODA/CODA Investment Memo\|Coda Octopus]] | CODA | Underwater Sonar / Defense | ~$138M | $27M | Speculative |
 | [[ODV/ODV Investment Memo\|Osisko Development]] | ODV | Gold Mining (Pre-Production) | ~$1.0B (USD) | C$35M | Speculative (High-Risk) |
 | [[CVE/CVE Investment Memo\|Cenovus Energy]] | CVE | Integrated Oil & Gas (Canada) | ~C$68B | C$49.7B | Monitor |
+| [[TME/TME Investment Memo\|Tencent Music Entertainment]] | TME | China Online Music / Audio | ~$13.6B | RMB32.9B | Monitor |
 
 ---
 
@@ -35,6 +36,7 @@ All research is grounded in SEC 10-K filings (or 40-F for Canadian filers) and s
 | CODA | Strong (niche) | Widening | ~33x | 0% | **Debt-free** |
 | ODV | Moderate (regulatory) | Narrowing→Widening | n/a (pre-rev) | 0% | Net cash (going concern flag) |
 | CVE | Moderate | Stable | ~16.7x | ~2.5% | C$8.3B net debt (post-MEG) |
+| TME | Weak-to-Moderate | Narrowing | ~10.5x | 2.77% | Net cash (~$4.9B) |
 
 ---
 
@@ -159,6 +161,21 @@ Canadian integrated oil & gas — 644 MBOE/d oil sands SAGD (Foster Creek, Chris
 - [[CVE/Earnings/Q4 2025]]
 - [[CVE/CVE Investment Memo]] 📄
 
+### 🎵 [[TME/Business Overview|Tencent Music Entertainment (TME)]]
+
+China's largest online music platform by MAU (QQ Music, Kugou, Kuwo, WeSing). 81.2% of revenue from online music, rest from declining social entertainment. Two straight years of MAU decline (589m→547m) offset by rising ARPPU/paying ratio. Non-exclusive content licensing, Tencent controls >90% of voting power, active NetEase antitrust suit, and quarterly KPI disclosure just discontinued. Net-cash balance sheet, single-digit forward P/E, growing dividend — but the core user-decline question just got harder to monitor.
+
+- [[TME/Business Overview]]
+- [[TME/Industry Scan]]
+- [[TME/Financial Deep Dive]]
+- [[TME/Moat Analysis]]
+- [[TME/Management Review]]
+- [[TME/Valuation Check]]
+- [[TME/Bear Case]]
+- [[TME/Decision Log]]
+- [[TME/Earnings/Q1 2026]]
+- [[TME/TME Investment Memo]] 📄
+
 ---
 
 ## Thematic Index
@@ -173,13 +190,14 @@ Canadian integrated oil & gas — 644 MBOE/d oil sands SAGD (Foster Creek, Chris
 - **Defense / undersea:** [[CODA/CODA Investment Memo|CODA]]
 - **Gold mining (pre-production):** [[ODV/ODV Investment Memo|ODV]]
 - **Integrated oil & gas:** [[CVE/CVE Investment Memo|CVE]]
+- **China internet / music streaming:** [[TME/TME Investment Memo|TME]]
 
 ### By Stance
 
 - **Income play (high yield, stable):** [[VICI/Decision Log|VICI]]
 - **Constructive (asymmetric upside):** [[UBER/Decision Log|UBER]]
 - **Value play (patient capital):** [[STRA/Decision Log|STRA]]
-- **Monitor (wait for better entry):** [[AVGO/Decision Log|AVGO]] · [[CVE/Decision Log|CVE]]
+- **Monitor (wait for better entry):** [[AVGO/Decision Log|AVGO]] · [[CVE/Decision Log|CVE]] · [[TME/Decision Log|TME]]
 - **Speculative (credit cycle bet):** [[PGY/Decision Log|PGY]]
 - **Speculative (micro-cap tech):** [[CODA/Decision Log|CODA]]
 - **Speculative (pre-production gold):** [[ODV/Decision Log|ODV]]
@@ -189,7 +207,7 @@ Canadian integrated oil & gas — 644 MBOE/d oil sands SAGD (Foster Creek, Chris
 - **Lowest risk:** VICI (100% rent collection, IG debt)
 - **Low-moderate:** UBER, AVGO
 - **Moderate:** STRA, CVE
-- **High:** PGY, CODA, ODV
+- **High:** PGY, CODA, ODV, TME (China-ADR/VIE structural risk, controlling shareholder, undisclosed competitive threat)
 
 ---
 
@@ -208,13 +226,13 @@ Each company is analyzed through the same lens:
 9. **Decision Log** — Watch list with alert thresholds, decision framework
 10. **Investment Memo** — 4-5 page synthesized summary + PDF
 
-All factual claims are sourced to SEC 10-K filings or flagged as external data. No training-data filling.
+All factual claims are sourced to SEC filings (10-K / 40-F / 20-F) or flagged as external data. No training-data filling.
 
 ---
 
 ## Source Documents
 
-Each company folder contains a `Filings/` subfolder with the original SEC 10-K filings used for research:
+Each company folder contains a `Filings/` subfolder with the original SEC filings used for research:
 
 - AVGO: 6 filings (FY2020-FY2025)
 - PGY: 3 filings (FY2023-FY2025)
@@ -222,5 +240,6 @@ Each company folder contains a `Filings/` subfolder with the original SEC 10-K f
 - VICI: 3 filings (FY2023-FY2025)
 - STRA: 3 filings (FY2023-FY2025)
 - CODA: 3 filings (FY2023, FY2024, FY2025 10-K/A)
+- TME: 3 filings (FY2023-FY2025 Form 20-F)
 
-Total: 21 10-K filings downloaded directly from SEC EDGAR.
+Total: 24 SEC filings downloaded directly from SEC EDGAR.
