@@ -1,8 +1,8 @@
 # Investment Research Vault
 
-*Last updated: 2026-07-02 | 9 companies covered*
+*Last updated: 2026-07-02 | 10 companies covered*
 
-A long-term equity research vault covering nine companies across diverse sectors. Each company folder contains a full research package: Business Overview, Industry Scan, Financial Deep Dive, Moat Analysis, Management Review, Valuation Check, Bear Case, Quarterly Earnings analyses, Decision Log, and a summary Investment Memo (markdown + PDF).
+A long-term equity research vault covering ten companies across diverse sectors. Each company folder contains a full research package: Business Overview, Industry Scan, Financial Deep Dive, Moat Analysis, Management Review, Valuation Check, Bear Case, Quarterly Earnings analyses, Decision Log, and a summary Investment Memo (markdown + PDF).
 
 All research is grounded in SEC 10-K filings (or 40-F for Canadian filers) and supplemented with flagged external sources (StockAnalysis, Seeking Alpha, Nareit, industry research firms).
 
@@ -21,6 +21,7 @@ All research is grounded in SEC 10-K filings (or 40-F for Canadian filers) and s
 | [[ODV/ODV Investment Memo\|Osisko Development]] | ODV | Gold Mining (Pre-Production) | ~$1.0B (USD) | C$35M | Speculative (High-Risk) |
 | [[CVE/CVE Investment Memo\|Cenovus Energy]] | CVE | Integrated Oil & Gas (Canada) | ~C$68B | C$49.7B | Monitor |
 | [[TME/TME Investment Memo\|Tencent Music Entertainment]] | TME | China Online Music / Audio | ~$13.6B | RMB32.9B | Monitor |
+| [[MCD/MCD Investment Memo\|McDonald's Corporation]] | MCD | Quick-Service Restaurants | ~$191.4B | $26.9B | Monitor |
 
 ---
 
@@ -37,6 +38,7 @@ All research is grounded in SEC 10-K filings (or 40-F for Canadian filers) and s
 | ODV | Moderate (regulatory) | Narrowing→Widening | n/a (pre-rev) | 0% | Net cash (going concern flag) |
 | CVE | Moderate | Stable | ~16.7x | ~2.5% | C$8.3B net debt (post-MEG) |
 | TME | Weak-to-Moderate | Narrowing | ~10.5x | 2.77% | Net cash (~$4.9B) |
+| MCD | Strong | Stable | ~22.5x | ~2.76% | $40.0B debt (neg. book equity) |
 
 ---
 
@@ -176,6 +178,21 @@ China's largest online music platform by MAU (QQ Music, Kugou, Kuwo, WeSing). 81
 - [[TME/Earnings/Q1 2026]]
 - [[TME/TME Investment Memo]] 📄
 
+### 🍔 [[MCD/Business Overview|McDonald's Corporation (MCD)]]
+
+World's largest QSR franchisor — 45,356 restaurants, ~95% franchised, 20-year franchise contracts with real estate control as the core structural lever. 50 consecutive years of dividend increases. Stock near 52-week lows on reported low-income consumer traffic softness; after-tax ROIC declining two straight years (25.2%→20.3%) despite rising capex. Strong moat, discount to peers — but the discount looks earned, not free money.
+
+- [[MCD/Business Overview]]
+- [[MCD/Industry Scan]]
+- [[MCD/Financial Deep Dive]]
+- [[MCD/Moat Analysis]]
+- [[MCD/Management Review]]
+- [[MCD/Valuation Check]]
+- [[MCD/Bear Case]]
+- [[MCD/Decision Log]]
+- [[MCD/Earnings/Q1 2026]]
+- [[MCD/MCD Investment Memo]] 📄
+
 ---
 
 ## Thematic Index
@@ -191,13 +208,14 @@ China's largest online music platform by MAU (QQ Music, Kugou, Kuwo, WeSing). 81
 - **Gold mining (pre-production):** [[ODV/ODV Investment Memo|ODV]]
 - **Integrated oil & gas:** [[CVE/CVE Investment Memo|CVE]]
 - **China internet / music streaming:** [[TME/TME Investment Memo|TME]]
+- **Quick-service restaurants / franchising:** [[MCD/MCD Investment Memo|MCD]]
 
 ### By Stance
 
 - **Income play (high yield, stable):** [[VICI/Decision Log|VICI]]
 - **Constructive (asymmetric upside):** [[UBER/Decision Log|UBER]]
 - **Value play (patient capital):** [[STRA/Decision Log|STRA]]
-- **Monitor (wait for better entry):** [[AVGO/Decision Log|AVGO]] · [[CVE/Decision Log|CVE]] · [[TME/Decision Log|TME]]
+- **Monitor (wait for better entry):** [[AVGO/Decision Log|AVGO]] · [[CVE/Decision Log|CVE]] · [[TME/Decision Log|TME]] · [[MCD/Decision Log|MCD]]
 - **Speculative (credit cycle bet):** [[PGY/Decision Log|PGY]]
 - **Speculative (micro-cap tech):** [[CODA/Decision Log|CODA]]
 - **Speculative (pre-production gold):** [[ODV/Decision Log|ODV]]
@@ -205,7 +223,7 @@ China's largest online music platform by MAU (QQ Music, Kugou, Kuwo, WeSing). 81
 ### By Risk Profile
 
 - **Lowest risk:** VICI (100% rent collection, IG debt)
-- **Low-moderate:** UBER, AVGO
+- **Low-moderate:** UBER, AVGO, MCD
 - **Moderate:** STRA, CVE
 - **High:** PGY, CODA, ODV, TME (China-ADR/VIE structural risk, controlling shareholder, undisclosed competitive threat)
 
@@ -241,5 +259,6 @@ Each company folder contains a `Filings/` subfolder with the original SEC filing
 - STRA: 3 filings (FY2023-FY2025)
 - CODA: 3 filings (FY2023, FY2024, FY2025 10-K/A)
 - TME: 3 filings (FY2023-FY2025 Form 20-F)
+- MCD: 3 filings (FY2023-FY2025)
 
-Total: 24 SEC filings downloaded directly from SEC EDGAR.
+Total: 27 SEC filings downloaded directly from SEC EDGAR.
