@@ -1,8 +1,8 @@
 # Investment Research Vault
 
-*Last updated: 2026-07-02 | 10 companies covered*
+*Last updated: 2026-07-02 | 11 companies covered*
 
-A long-term equity research vault covering ten companies across diverse sectors. Each company folder contains a full research package: Business Overview, Industry Scan, Financial Deep Dive, Moat Analysis, Management Review, Valuation Check, Bear Case, Quarterly Earnings analyses, Decision Log, and a summary Investment Memo (markdown + PDF).
+A long-term equity research vault covering eleven companies across diverse sectors. Each company folder contains a full research package: Business Overview, Industry Scan, Financial Deep Dive, Moat Analysis, Management Review, Valuation Check, Bear Case, Quarterly Earnings analyses, Decision Log, and a summary Investment Memo (markdown + PDF).
 
 All research is grounded in SEC 10-K filings (or 40-F for Canadian filers) and supplemented with flagged external sources (StockAnalysis, Seeking Alpha, Nareit, industry research firms).
 
@@ -22,6 +22,7 @@ All research is grounded in SEC 10-K filings (or 40-F for Canadian filers) and s
 | [[CVE/CVE Investment Memo\|Cenovus Energy]] | CVE | Integrated Oil & Gas (Canada) | ~C$68B | C$49.7B | Monitor |
 | [[TME/TME Investment Memo\|Tencent Music Entertainment]] | TME | China Online Music / Audio | ~$13.6B | RMB32.9B | Monitor |
 | [[MCD/MCD Investment Memo\|McDonald's Corporation]] | MCD | Quick-Service Restaurants | ~$191.4B | $26.9B | Monitor |
+| [[MRVL/MRVL Investment Memo\|Marvell Technology]] | MRVL | AI/Data Infrastructure Semis | ~$238.0B | $8.2B | Monitor (Speculative lean) |
 
 ---
 
@@ -39,6 +40,7 @@ All research is grounded in SEC 10-K filings (or 40-F for Canadian filers) and s
 | CVE | Moderate | Stable | ~16.7x | ~2.5% | C$8.3B net debt (post-MEG) |
 | TME | Weak-to-Moderate | Narrowing | ~10.5x | 2.77% | Net cash (~$4.9B) |
 | MCD | Strong | Stable | ~22.5x | ~2.76% | $40.0B debt (neg. book equity) |
+| MRVL | Moderate (design-win lock-in, weak efficient scale) | Narrowing→Widening (unresolved) | ~94x (GAAP) | 0.09% | $4.5B debt, net cash positive post-divestiture |
 
 ---
 
@@ -193,6 +195,21 @@ World's largest QSR franchisor — 45,356 restaurants, ~95% franchised, 20-year 
 - [[MCD/Earnings/Q1 2026]]
 - [[MCD/MCD Investment Memo]] 📄
 
+### 🤖 [[MRVL/Business Overview|Marvell Technology (MRVL)]]
+
+Fabless AI/data-infrastructure semiconductor company — custom ASICs, interconnects, and switches for hyperscale data centers. Data center revenue nearly tripled in two years (74% of FY2026 revenue, up from 40%), but top 10 customers = 82% of revenue and rising. Reported (unconfirmed) AWS Trainium3 design loss to Alchip is a key open question. Broadcom holds ~60% vs. Marvell's ~25% of the custom AI accelerator market. Forward P/E ~60x — a premium to Broadcom/Nvidia with much higher customer concentration and less margin for error.
+
+- [[MRVL/Business Overview]]
+- [[MRVL/Industry Scan]]
+- [[MRVL/Financial Deep Dive]]
+- [[MRVL/Moat Analysis]]
+- [[MRVL/Management Review]]
+- [[MRVL/Valuation Check]]
+- [[MRVL/Bear Case]]
+- [[MRVL/Decision Log]]
+- [[MRVL/Earnings/Q1 FY2027]]
+- [[MRVL/MRVL Investment Memo]] 📄
+
 ---
 
 ## Thematic Index
@@ -209,13 +226,14 @@ World's largest QSR franchisor — 45,356 restaurants, ~95% franchised, 20-year 
 - **Integrated oil & gas:** [[CVE/CVE Investment Memo|CVE]]
 - **China internet / music streaming:** [[TME/TME Investment Memo|TME]]
 - **Quick-service restaurants / franchising:** [[MCD/MCD Investment Memo|MCD]]
+- **AI infrastructure / custom semiconductors:** [[MRVL/MRVL Investment Memo|MRVL]]
 
 ### By Stance
 
 - **Income play (high yield, stable):** [[VICI/Decision Log|VICI]]
 - **Constructive (asymmetric upside):** [[UBER/Decision Log|UBER]]
 - **Value play (patient capital):** [[STRA/Decision Log|STRA]]
-- **Monitor (wait for better entry):** [[AVGO/Decision Log|AVGO]] · [[CVE/Decision Log|CVE]] · [[TME/Decision Log|TME]] · [[MCD/Decision Log|MCD]]
+- **Monitor (wait for better entry):** [[AVGO/Decision Log|AVGO]] · [[CVE/Decision Log|CVE]] · [[TME/Decision Log|TME]] · [[MCD/Decision Log|MCD]] · [[MRVL/Decision Log|MRVL]]
 - **Speculative (credit cycle bet):** [[PGY/Decision Log|PGY]]
 - **Speculative (micro-cap tech):** [[CODA/Decision Log|CODA]]
 - **Speculative (pre-production gold):** [[ODV/Decision Log|ODV]]
@@ -225,7 +243,7 @@ World's largest QSR franchisor — 45,356 restaurants, ~95% franchised, 20-year 
 - **Lowest risk:** VICI (100% rent collection, IG debt)
 - **Low-moderate:** UBER, AVGO, MCD
 - **Moderate:** STRA, CVE
-- **High:** PGY, CODA, ODV, TME (China-ADR/VIE structural risk, controlling shareholder, undisclosed competitive threat)
+- **High:** PGY, CODA, ODV, TME (China-ADR/VIE structural risk, controlling shareholder, undisclosed competitive threat), MRVL (extreme customer concentration, unconfirmed design-loss risk, elevated valuation)
 
 ---
 
@@ -260,5 +278,6 @@ Each company folder contains a `Filings/` subfolder with the original SEC filing
 - CODA: 3 filings (FY2023, FY2024, FY2025 10-K/A)
 - TME: 3 filings (FY2023-FY2025 Form 20-F)
 - MCD: 3 filings (FY2023-FY2025)
+- MRVL: 3 filings (FY2024-FY2026)
 
-Total: 27 SEC filings downloaded directly from SEC EDGAR.
+Total: 30 SEC filings downloaded directly from SEC EDGAR.
