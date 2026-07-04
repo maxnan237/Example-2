@@ -1,10 +1,10 @@
 # Investment Research Vault
 
-*Last updated: 2026-07-02 | 13 companies covered*
+*Last updated: 2026-07-02 | 14 companies covered*
 
-A long-term equity research vault covering thirteen companies across diverse sectors. Each company folder contains a full research package: Business Overview, Industry Scan, Financial Deep Dive, Moat Analysis, Management Review, Valuation Check, Bear Case, Quarterly Earnings analyses, Decision Log, and a summary Investment Memo (markdown + PDF).
+A long-term equity research vault covering fourteen companies across diverse sectors. Each company folder contains a full research package: Business Overview, Industry Scan, Financial Deep Dive, Moat Analysis, Management Review, Valuation Check, Bear Case, Quarterly Earnings analyses, Decision Log, and a summary Investment Memo (markdown + PDF).
 
-All research is grounded in SEC 10-K filings (or 40-F for Canadian filers) and supplemented with flagged external sources (StockAnalysis, Seeking Alpha, Nareit, industry research firms).
+All research is grounded in SEC 10-K filings (or 40-F/SEDAR+ disclosure for Canadian filers) and supplemented with flagged external sources (StockAnalysis, Seeking Alpha, Nareit, industry research firms).
 
 ---
 
@@ -25,6 +25,7 @@ All research is grounded in SEC 10-K filings (or 40-F for Canadian filers) and s
 | [[MRVL/MRVL Investment Memo\|Marvell Technology]] | MRVL | AI/Data Infrastructure Semis | ~$238.0B | $8.2B | Monitor (Speculative lean) |
 | [[MSFT/MSFT Investment Memo\|Microsoft Corporation]] | MSFT | Enterprise Software / Cloud | ~$2.85T | $281.7B | Monitor |
 | [[SHIP/SHIP Investment Memo\|Seanergy Maritime Holdings]] | SHIP | Dry Bulk Shipping (Capesize) | ~$289M | $158.1M | Speculative (High-Risk) |
+| [[CSU/CSU Investment Memo\|Constellation Software]] | CSU | Diversified VMS Software (Canada) | ~US$41.9B | $11.6B | Monitor |
 
 ---
 
@@ -45,6 +46,7 @@ All research is grounded in SEC 10-K filings (or 40-F for Canadian filers) and s
 | MRVL | Moderate (design-win lock-in, weak efficient scale) | Narrowing→Widening (unresolved) | ~94x (GAAP) | 0.09% | $4.5B debt, net cash positive post-divestiture |
 | MSFT | Strong | Stable (capex-driven margin question) | ~22.9x | 0.95% | $43.2B debt, net cash positive |
 | SHIP | Absent-to-Weak (no moat) | Narrowing (aging fleet) | ~7.4x | 3.22% | $294.0M debt, ~58% loan-to-vessel-value |
+| CSU | Strong (switching costs, portfolio-level) | Stable-to-Widening (acquisition engine uncertain) | ~17x (fwd, normalized) | 0.20% | $4.1B debt, net debt ~$1.0-1.5B |
 
 ---
 
@@ -244,6 +246,21 @@ Pure-play Capesize/Newcastlemax dry bulk shipping company — 20 vessels, ~3.6M 
 - [[SHIP/Earnings/Q1 2026]]
 - [[SHIP/SHIP Investment Memo]] 📄
 
+### 🧩 [[CSU/Business Overview|Constellation Software (CSU)]]
+
+Canadian serial acquirer of mission-critical vertical market software (VMS) businesses — 6 operating groups, 150+ verticals, no customer >2% of revenue, ~75% recurring maintenance revenue. Does not file with the SEC — sourced from SEDAR+/investor-relations disclosure instead. Three straight years of declining acquisition spend coincide with founder Mark Leonard's departure from the Board (May 2026) and a new CEO (Mark Miller). Reported net income is unusually volatile due to large non-operating revaluation charges. Strong underlying portfolio economics, but the acquisition-engine trajectory under new leadership is the key open question.
+
+- [[CSU/Business Overview]]
+- [[CSU/Industry Scan]]
+- [[CSU/Financial Deep Dive]]
+- [[CSU/Moat Analysis]]
+- [[CSU/Management Review]]
+- [[CSU/Valuation Check]]
+- [[CSU/Bear Case]]
+- [[CSU/Decision Log]]
+- [[CSU/Earnings/Q1 2026]]
+- [[CSU/CSU Investment Memo]] 📄
+
 ---
 
 ## Thematic Index
@@ -263,13 +280,14 @@ Pure-play Capesize/Newcastlemax dry bulk shipping company — 20 vessels, ~3.6M 
 - **AI infrastructure / custom semiconductors:** [[MRVL/MRVL Investment Memo|MRVL]]
 - **Enterprise software / cloud:** [[MSFT/MSFT Investment Memo|MSFT]]
 - **Dry bulk shipping:** [[SHIP/SHIP Investment Memo|SHIP]]
+- **Diversified vertical market software (serial acquirer):** [[CSU/CSU Investment Memo|CSU]]
 
 ### By Stance
 
 - **Income play (high yield, stable):** [[VICI/Decision Log|VICI]]
 - **Constructive (asymmetric upside):** [[UBER/Decision Log|UBER]]
 - **Value play (patient capital):** [[STRA/Decision Log|STRA]]
-- **Monitor (wait for better entry):** [[AVGO/Decision Log|AVGO]] · [[CVE/Decision Log|CVE]] · [[TME/Decision Log|TME]] · [[MCD/Decision Log|MCD]] · [[MRVL/Decision Log|MRVL]] · [[MSFT/Decision Log|MSFT]]
+- **Monitor (wait for better entry):** [[AVGO/Decision Log|AVGO]] · [[CVE/Decision Log|CVE]] · [[TME/Decision Log|TME]] · [[MCD/Decision Log|MCD]] · [[MRVL/Decision Log|MRVL]] · [[MSFT/Decision Log|MSFT]] · [[CSU/Decision Log|CSU]]
 - **Speculative (credit cycle bet):** [[PGY/Decision Log|PGY]]
 - **Speculative (micro-cap tech):** [[CODA/Decision Log|CODA]]
 - **Speculative (pre-production gold):** [[ODV/Decision Log|ODV]]
@@ -278,7 +296,7 @@ Pure-play Capesize/Newcastlemax dry bulk shipping company — 20 vessels, ~3.6M 
 ### By Risk Profile
 
 - **Lowest risk:** VICI (100% rent collection, IG debt)
-- **Low-moderate:** UBER, AVGO, MCD, MSFT
+- **Low-moderate:** UBER, AVGO, MCD, MSFT, CSU
 - **Moderate:** STRA, CVE
 - **High:** PGY, CODA, ODV, TME (China-ADR/VIE structural risk, controlling shareholder, undisclosed competitive threat), MRVL (extreme customer concentration, unconfirmed design-loss risk, elevated valuation), SHIP (no moat, super-voting governance structure, related-party dependency, freight-rate cyclicality)
 
@@ -299,13 +317,13 @@ Each company is analyzed through the same lens:
 9. **Decision Log** — Watch list with alert thresholds, decision framework
 10. **Investment Memo** — 4-5 page synthesized summary + PDF
 
-All factual claims are sourced to SEC filings (10-K / 40-F / 20-F) or flagged as external data. No training-data filling.
+All factual claims are sourced to SEC filings (10-K / 40-F / 20-F) or SEDAR+/company disclosure for non-SEC filers, or flagged as external data. No training-data filling.
 
 ---
 
 ## Source Documents
 
-Each company folder contains a `Filings/` subfolder with the original SEC filings used for research:
+Each company folder contains a `Filings/` subfolder with the original source documents used for research:
 
 - AVGO: 6 filings (FY2020-FY2025)
 - PGY: 3 filings (FY2023-FY2025)
@@ -318,5 +336,6 @@ Each company folder contains a `Filings/` subfolder with the original SEC filing
 - MRVL: 3 filings (FY2024-FY2026)
 - MSFT: 3 filings (FY2023-FY2025)
 - SHIP: 3 filings (FY2023-FY2025 Form 20-F)
+- CSU: 8 documents (FY2023-FY2025 Annual Information Forms, audited financial statements, and MD&A — sourced from investor-relations/SEDAR+ disclosure, not SEC EDGAR, since Constellation Software does not file 10-K/20-F/40-F)
 
-Total: 36 SEC filings downloaded directly from SEC EDGAR.
+Total: 36 SEC filings + 8 non-SEC disclosure documents downloaded directly from SEC EDGAR and company investor-relations sources.
