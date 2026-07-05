@@ -1,8 +1,8 @@
 # Investment Research Vault
 
-*Last updated: 2026-07-02 | 14 companies covered*
+*Last updated: 2026-07-02 | 15 companies covered*
 
-A long-term equity research vault covering fourteen companies across diverse sectors. Each company folder contains a full research package: Business Overview, Industry Scan, Financial Deep Dive, Moat Analysis, Management Review, Valuation Check, Bear Case, Quarterly Earnings analyses, Decision Log, and a summary Investment Memo (markdown + PDF).
+A long-term equity research vault covering fifteen companies across diverse sectors. Each company folder contains a full research package: Business Overview, Industry Scan, Financial Deep Dive, Moat Analysis, Management Review, Valuation Check, Bear Case, Quarterly Earnings analyses, Decision Log, and a summary Investment Memo (markdown + PDF).
 
 All research is grounded in SEC 10-K filings (or 40-F/SEDAR+ disclosure for Canadian filers) and supplemented with flagged external sources (StockAnalysis, Seeking Alpha, Nareit, industry research firms).
 
@@ -26,6 +26,7 @@ All research is grounded in SEC 10-K filings (or 40-F/SEDAR+ disclosure for Cana
 | [[MSFT/MSFT Investment Memo\|Microsoft Corporation]] | MSFT | Enterprise Software / Cloud | ~$2.85T | $281.7B | Monitor |
 | [[SHIP/SHIP Investment Memo\|Seanergy Maritime Holdings]] | SHIP | Dry Bulk Shipping (Capesize) | ~$289M | $158.1M | Speculative (High-Risk) |
 | [[CSU/CSU Investment Memo\|Constellation Software]] | CSU | Diversified VMS Software (Canada) | ~US$41.9B | $11.6B | Monitor |
+| [[MELI/MELI Investment Memo\|MercadoLibre]] | MELI | LatAm E-Commerce / Fintech | ~$89.4B | $28.9B | Monitor |
 
 ---
 
@@ -47,6 +48,7 @@ All research is grounded in SEC 10-K filings (or 40-F/SEDAR+ disclosure for Cana
 | MSFT | Strong | Stable (capex-driven margin question) | ~22.9x | 0.95% | $43.2B debt, net cash positive |
 | SHIP | Absent-to-Weak (no moat) | Narrowing (aging fleet) | ~7.4x | 3.22% | $294.0M debt, ~58% loan-to-vessel-value |
 | CSU | Strong (switching costs, portfolio-level) | Stable-to-Widening (acquisition engine uncertain) | ~17x (fwd, normalized) | 0.20% | $4.1B debt, net debt ~$1.0-1.5B |
+| MELI | Moderate (network effects, weak efficient scale) | Narrowing | ~46.6x | 0% | $9.2B debt, well-covered by FCF |
 
 ---
 
@@ -261,6 +263,21 @@ Canadian serial acquirer of mission-critical vertical market software (VMS) busi
 - [[CSU/Earnings/Q1 2026]]
 - [[CSU/CSU Investment Memo]] 📄
 
+### 🛒 [[MELI/Business Overview|MercadoLibre (MELI)]]
+
+Leading e-commerce and fintech platform in Latin America — 121M unique active buyers, $65.0B GMV, 78M fintech MAUs, 95.6% of revenue from Brazil/Argentina/Mexico. Brazil's segment margin declined YoY in FY2025 despite strong revenue growth — direct evidence of Amazon/Shopee/Temu competitive pressure the company's own filings don't name. Credit business NIMAL compressed from 36.2% to 22.4% over two years as the loan book nearly doubled annually. New CEO (Ariel Szarfsztejn, Jan 2026) succeeds founder Marcos Galperin, who becomes Executive Chairman. Premium valuation with four straight quarterly EPS misses.
+
+- [[MELI/Business Overview]]
+- [[MELI/Industry Scan]]
+- [[MELI/Financial Deep Dive]]
+- [[MELI/Moat Analysis]]
+- [[MELI/Management Review]]
+- [[MELI/Valuation Check]]
+- [[MELI/Bear Case]]
+- [[MELI/Decision Log]]
+- [[MELI/Earnings/Q1 2026]]
+- [[MELI/MELI Investment Memo]] 📄
+
 ---
 
 ## Thematic Index
@@ -281,13 +298,14 @@ Canadian serial acquirer of mission-critical vertical market software (VMS) busi
 - **Enterprise software / cloud:** [[MSFT/MSFT Investment Memo|MSFT]]
 - **Dry bulk shipping:** [[SHIP/SHIP Investment Memo|SHIP]]
 - **Diversified vertical market software (serial acquirer):** [[CSU/CSU Investment Memo|CSU]]
+- **Latin American e-commerce / fintech:** [[MELI/MELI Investment Memo|MELI]]
 
 ### By Stance
 
 - **Income play (high yield, stable):** [[VICI/Decision Log|VICI]]
 - **Constructive (asymmetric upside):** [[UBER/Decision Log|UBER]]
 - **Value play (patient capital):** [[STRA/Decision Log|STRA]]
-- **Monitor (wait for better entry):** [[AVGO/Decision Log|AVGO]] · [[CVE/Decision Log|CVE]] · [[TME/Decision Log|TME]] · [[MCD/Decision Log|MCD]] · [[MRVL/Decision Log|MRVL]] · [[MSFT/Decision Log|MSFT]] · [[CSU/Decision Log|CSU]]
+- **Monitor (wait for better entry):** [[AVGO/Decision Log|AVGO]] · [[CVE/Decision Log|CVE]] · [[TME/Decision Log|TME]] · [[MCD/Decision Log|MCD]] · [[MRVL/Decision Log|MRVL]] · [[MSFT/Decision Log|MSFT]] · [[CSU/Decision Log|CSU]] · [[MELI/Decision Log|MELI]]
 - **Speculative (credit cycle bet):** [[PGY/Decision Log|PGY]]
 - **Speculative (micro-cap tech):** [[CODA/Decision Log|CODA]]
 - **Speculative (pre-production gold):** [[ODV/Decision Log|ODV]]
@@ -297,7 +315,7 @@ Canadian serial acquirer of mission-critical vertical market software (VMS) busi
 
 - **Lowest risk:** VICI (100% rent collection, IG debt)
 - **Low-moderate:** UBER, AVGO, MCD, MSFT, CSU
-- **Moderate:** STRA, CVE
+- **Moderate:** STRA, CVE, MELI (emerging-market currency/credit risk, but strong absolute growth)
 - **High:** PGY, CODA, ODV, TME (China-ADR/VIE structural risk, controlling shareholder, undisclosed competitive threat), MRVL (extreme customer concentration, unconfirmed design-loss risk, elevated valuation), SHIP (no moat, super-voting governance structure, related-party dependency, freight-rate cyclicality)
 
 ---
@@ -337,5 +355,6 @@ Each company folder contains a `Filings/` subfolder with the original source doc
 - MSFT: 3 filings (FY2023-FY2025)
 - SHIP: 3 filings (FY2023-FY2025 Form 20-F)
 - CSU: 8 documents (FY2023-FY2025 Annual Information Forms, audited financial statements, and MD&A — sourced from investor-relations/SEDAR+ disclosure, not SEC EDGAR, since Constellation Software does not file 10-K/20-F/40-F)
+- MELI: 3 filings (FY2023-FY2025)
 
-Total: 36 SEC filings + 8 non-SEC disclosure documents downloaded directly from SEC EDGAR and company investor-relations sources.
+Total: 39 SEC filings + 8 non-SEC disclosure documents downloaded directly from SEC EDGAR and company investor-relations sources.
