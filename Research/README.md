@@ -1,8 +1,8 @@
 # Investment Research Vault
 
-*Last updated: 2026-07-02 | 15 companies covered*
+*Last updated: 2026-08-04 | 16 companies covered*
 
-A long-term equity research vault covering fifteen companies across diverse sectors. Each company folder contains a full research package: Business Overview, Industry Scan, Financial Deep Dive, Moat Analysis, Management Review, Valuation Check, Bear Case, Quarterly Earnings analyses, Decision Log, and a summary Investment Memo (markdown + PDF).
+A long-term equity research vault covering sixteen companies across diverse sectors. Each company folder contains a full research package: Business Overview, Industry Scan, Financial Deep Dive, Moat Analysis, Management Review, Valuation Check, Bear Case, Quarterly Earnings analyses, Decision Log, and a summary Investment Memo (markdown + PDF).
 
 All research is grounded in SEC 10-K filings (or 40-F/SEDAR+ disclosure for Canadian filers) and supplemented with flagged external sources (StockAnalysis, Seeking Alpha, Nareit, industry research firms).
 
@@ -27,6 +27,7 @@ All research is grounded in SEC 10-K filings (or 40-F/SEDAR+ disclosure for Cana
 | [[SHIP/SHIP Investment Memo\|Seanergy Maritime Holdings]] | SHIP | Dry Bulk Shipping (Capesize) | ~$289M | $158.1M | Speculative (High-Risk) |
 | [[CSU/CSU Investment Memo\|Constellation Software]] | CSU | Diversified VMS Software (Canada) | ~US$41.9B | $11.6B | Monitor |
 | [[MELI/MELI Investment Memo\|MercadoLibre]] | MELI | LatAm E-Commerce / Fintech | ~$89.4B | $28.9B | Monitor |
+| [[NB/NB Investment Memo\|NioCorp Developments]] | NB | Critical Minerals (Pre-Production) | ~$730M | $0 (pre-revenue) | Speculative |
 
 ---
 
@@ -49,6 +50,7 @@ All research is grounded in SEC 10-K filings (or 40-F/SEDAR+ disclosure for Cana
 | SHIP | Absent-to-Weak (no moat) | Narrowing (aging fleet) | ~7.4x | 3.22% | $294.0M debt, ~58% loan-to-vessel-value |
 | CSU | Strong (switching costs, portfolio-level) | Stable-to-Widening (acquisition engine uncertain) | ~17x (fwd, normalized) | 0.20% | $4.1B debt, net debt ~$1.0-1.5B |
 | MELI | Moderate (network effects, weak efficient scale) | Narrowing | ~46.6x | 0% | $9.2B debt, well-covered by FCF |
+| NB | Unproven (option on efficient-scale, pre-construction) | Contingent on execution | n/a (pre-rev) | 0% | Debt-free (going concern flag) |
 
 ---
 
@@ -278,6 +280,21 @@ Leading e-commerce and fintech platform in Latin America — 121M unique active 
 - [[MELI/Earnings/Q1 2026]]
 - [[MELI/MELI Investment Memo]] 📄
 
+### ⛏️ [[NB/Business Overview|NioCorp Developments (NB)]]
+
+Pre-revenue, single-asset critical-minerals developer — the Elk Creek Project in Nebraska would produce niobium, scandium, and titanium via an underground mine and novel integrated processing facility. Zero Proven reserves (100% Probable-tier), zero revenue, and going-concern doubt persisting across three straight audited fiscal years, but a dramatically improved balance sheet (debt-free, cash up from $2.0M to $25.6M in FY2025, and reportedly ~$419M by March 2026 per external sources) funded largely through heavy dilution. EXIM Bank debt financing (up to $800M) and a DoD reimbursement agreement remain in progress but unconfirmed. The company's own 10-Ks do not disclose project NPV/IRR — the only NAV anchor is a stale 2022 feasibility study. A binary, execution-dependent option, not a core holding.
+
+- [[NB/Business Overview]]
+- [[NB/Industry Scan]]
+- [[NB/Financial Deep Dive]]
+- [[NB/Moat Analysis]]
+- [[NB/Management Review]]
+- [[NB/Valuation Check]]
+- [[NB/Bear Case]]
+- [[NB/Decision Log]]
+- [[NB/Earnings/Q3 FY2026 Update]]
+- [[NB/NB Investment Memo]] 📄
+
 ---
 
 ## Thematic Index
@@ -299,6 +316,7 @@ Leading e-commerce and fintech platform in Latin America — 121M unique active 
 - **Dry bulk shipping:** [[SHIP/SHIP Investment Memo|SHIP]]
 - **Diversified vertical market software (serial acquirer):** [[CSU/CSU Investment Memo|CSU]]
 - **Latin American e-commerce / fintech:** [[MELI/MELI Investment Memo|MELI]]
+- **Critical minerals / mining (pre-production):** [[NB/NB Investment Memo|NB]]
 
 ### By Stance
 
@@ -310,13 +328,14 @@ Leading e-commerce and fintech platform in Latin America — 121M unique active 
 - **Speculative (micro-cap tech):** [[CODA/Decision Log|CODA]]
 - **Speculative (pre-production gold):** [[ODV/Decision Log|ODV]]
 - **Speculative (shipping cycle + governance risk):** [[SHIP/Decision Log|SHIP]]
+- **Speculative (pre-revenue critical minerals, financing/permitting binary):** [[NB/Decision Log|NB]]
 
 ### By Risk Profile
 
 - **Lowest risk:** VICI (100% rent collection, IG debt)
 - **Low-moderate:** UBER, AVGO, MCD, MSFT, CSU
 - **Moderate:** STRA, CVE, MELI (emerging-market currency/credit risk, but strong absolute growth)
-- **High:** PGY, CODA, ODV, TME (China-ADR/VIE structural risk, controlling shareholder, undisclosed competitive threat), MRVL (extreme customer concentration, unconfirmed design-loss risk, elevated valuation), SHIP (no moat, super-voting governance structure, related-party dependency, freight-rate cyclicality)
+- **High:** PGY, CODA, ODV, TME (China-ADR/VIE structural risk, controlling shareholder, undisclosed competitive threat), MRVL (extreme customer concentration, unconfirmed design-loss risk, elevated valuation), SHIP (no moat, super-voting governance structure, related-party dependency, freight-rate cyclicality), NB (pre-revenue, going-concern doubt persisting 3 straight years, zero Proven reserves, undisclosed project NPV/IRR, heavy ongoing dilution)
 
 ---
 
@@ -356,5 +375,6 @@ Each company folder contains a `Filings/` subfolder with the original source doc
 - SHIP: 3 filings (FY2023-FY2025 Form 20-F)
 - CSU: 8 documents (FY2023-FY2025 Annual Information Forms, audited financial statements, and MD&A — sourced from investor-relations/SEDAR+ disclosure, not SEC EDGAR, since Constellation Software does not file 10-K/20-F/40-F)
 - MELI: 3 filings (FY2023-FY2025)
+- NB: 3 filings (FY2023-FY2025)
 
-Total: 39 SEC filings + 8 non-SEC disclosure documents downloaded directly from SEC EDGAR and company investor-relations sources.
+Total: 42 SEC filings + 8 non-SEC disclosure documents downloaded directly from SEC EDGAR and company investor-relations sources.
